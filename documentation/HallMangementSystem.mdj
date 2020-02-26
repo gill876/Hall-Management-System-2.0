@@ -249,7 +249,7 @@
 											"top": 63,
 											"width": 567,
 											"height": 13,
-											"text": "Hall Management System"
+											"text": "Issue Management"
 										},
 										{
 											"_type": "LabelView",
@@ -6810,7 +6810,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Hall Management System"
+					"name": "Issue Management"
 				},
 				{
 					"_type": "UMLActor",
